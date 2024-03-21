@@ -7,6 +7,10 @@ export default function Coffee() {
       <CoffeeBox />
       <CoffeeBox />
       <CoffeeBox />
+      <CoffeeBox />
+      <CoffeeBox />
+      <CoffeeBox />
+      <CoffeeBox />
     </div>
   )
 }
